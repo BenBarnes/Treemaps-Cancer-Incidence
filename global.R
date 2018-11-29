@@ -18,6 +18,3 @@ mDat[, theColor := rgb(t(col2rgb(c("blue", "green"))),
 treeDatFun <- function(theYear, theAG, theSex) {
   as.data.frame(mDat[year == theYear & AG2 == theAG & sex == theSex])
 }
-
-treemap(treeDatFun(2014, "50 - 54", "maennlich"),
-  index = "diag", vSize = "cases2", vColor = "sex", type = "categorical")
