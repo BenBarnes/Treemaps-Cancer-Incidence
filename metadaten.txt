@@ -1,0 +1,11 @@
+Datenstand: 29.11.2017
+Inzidenz, Fallzahlen in Deutschland
+Gewählte Filter:
+Altersgruppen: 0 - 85+
+Diagnose: Mundhöhle und Rachen (C00-C14), Speiseröhre (C15), Magen (C16), Dünndarm (C17), Darm (C18-C21), Leber (C22), Gallenblase und Gallenwege (C23-C24), Bauchspeicheldrüse (C25), sonstg./n.n.bez. Verdauungsorgane (C26), Nasenhöhle und Mittelohr (C30), Nasennebenhöhle (C31), Kehlkopf (C32), Lunge (C33-C34), Thymus (C37), Herz, Mediastinum u. Pleura (C38), sonstg. Brustorgane (C39), Knochen u. Gelenkknorpel (C40-C41), Malignes Melanom der Haut (C43), Mesotheliom (C45), Kaposi-Syndrom (C46), periphere Nerven u. autonomes Nervensystem (C47), Retroperitoneum u. Peritoneum (C48), sonstg. Bindegewebe u. a. Weichteile (C49), Brustdrüse (C50), Vulva (C51), Vagina (C52), Gebärmutterhals (C53), Gebärmutterkörper (C54-C55), Eierstöcke (C56), sonstg./n.n.bez. weibl. Geschlechtorgane (C57), Plazenta (C58), Penis (C60), Prostata (C61), Hoden (C62), sonstg./n.n.bez. männl. Geschlechtsorgane (C63), Niere (C64), Nierenbecken (C65), Harnleiter (C66), Harnblase (C67), sonstg./n.n.bez. Harnorgane (C68), Auge (C69), Zentrales Nervensystem (C70-C72), Schilddrüse (C73), Nebenniere (C74), sonstg. endokrine Drüsen u. verw. Strukturen (C75), sonstg., ungenau u. n.bez. Lokalisationen (C76-C80), Morbus Hodgkin (C81), Non-Hodgkin-Lymphome (C82-C88), Plasmozytom (C90), Lymphatische Leukämie (C91), Myeloische Leukämie (C92), Monozytenleukämie (C93), sonstg. Leukämien n.n.bez. Zelltyps (C94), Leukämien n.n.bez. Zelltyps (C95), sonstg./n.n.bez. bösartige Neubildungen d. lymphatischen/blutbildenden Gewebes (C96)
+Geschlecht: männlich, weiblich
+Jahre: 1999 - 2014
+* : Keine sinnvolle Auswertung möglich aufgrund zu geringer Fallzahlen.
+x : Keine sinnvolle Kombination, beispielsweise bei einer geschlechtsspezifischen Diagnose.
+<5 : Es sind weniger als 5 Fälle registriert. Aus Datenschutzgründen wird die genaue Anzahl nicht publiziert.
+© Zentrum für Krebsregisterdaten im Robert Koch-Institut, www.krebsdaten.de/abfrage
