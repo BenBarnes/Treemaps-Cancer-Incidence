@@ -3,9 +3,7 @@ library(data.table)
 library(shiny)
 library(shinyWidgets)
 
-base <- "/Users/benbarnes2/Documents/RKI/Visualize"
-
-canDat <- fread(file.path(base, "Krebsdaten.csv"))
+canDat <- fread("Krebsdaten.csv")
 mDat <- melt(canDat, id.vars = c("year", "diag", "AG"),
   measure.vars = c("weiblich", "maennlich"), variable.name = "sex",
   value.name = "cases")
