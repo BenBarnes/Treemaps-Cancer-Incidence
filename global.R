@@ -15,6 +15,6 @@ mDat[, sex := factor(sex)]
 mDat[, theColor := rgb(t(col2rgb(c("blue", "green"))),
   maxColorValue = 255)[as.integer(sex)]]
 
-treeDatFun <- function(theYear, theAG, theSex) {
+treeDatFun <- function(mDat, theYear, theAG, theSex) {
   as.data.frame(mDat[year == theYear & AG2 == theAG & sex == theSex])
 }
